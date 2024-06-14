@@ -1,3 +1,3 @@
 vulfocus/redis-cnvd_2015_07557
 vulfocus/rails-cve_2018_3760
-vulhub/samba
+vulhub/samba:4.6.3

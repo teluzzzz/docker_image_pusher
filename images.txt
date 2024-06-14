@@ -1,1 +1,2 @@
 vulfocus/redis-cnvd_2015_07557
+vulfocus/rails-cve_2018_3760

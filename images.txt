@@ -3,3 +3,5 @@ vulfocus/rails-cve_2018_3760
 vulhub/samba:4.6.3
 taomujian/linbing:latest
 vulhub/php:8.3.4-apache
+vulhub/tomcat:8.0
+vulhub/tomcat:9.0.30

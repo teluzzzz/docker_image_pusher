@@ -1,7 +1,4 @@
-vulfocus/redis-cnvd_2015_07557
-vulfocus/rails-cve_2018_3760
-vulhub/samba:4.6.3
-taomujian/linbing:latest
+vulhub/redis:5.0.7
 vulhub/php:8.3.4-apache
 vulhub/tomcat:8.0
 vulhub/tomcat:9.0.30

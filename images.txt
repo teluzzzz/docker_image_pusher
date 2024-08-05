@@ -2,3 +2,4 @@ vulhub/redis:5.0.7
 vulhub/php:8.3.4-apache
 vulhub/tomcat:8.0
 vulhub/tomcat:9.0.30
+homeassistant/home-assistant:stable
